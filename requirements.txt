@@ -1,0 +1,6 @@
+fastapi
+"uvicorn[standard]"
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
+faster_whisper
+python-multipart
