@@ -1,0 +1,1 @@
+- Windows folder view: In windows explorer use \\wsl.localhost\Ubuntu\  (opens up root)
